@@ -1,0 +1,120 @@
+{
+  "name": "tauri-skills",
+  "owner": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "metadata": {
+    "description": "Tauri Cross-Platform Development Skills - Covering Core, System, Network, Mobile, Data, UI, and Security.",
+    "version": "0.0.1"
+  },
+  "plugins": [
+    {
+      "name": "tauri-core",
+      "description": "Core framework and project configuration skills (10 skills)",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/tauri-scaffold",
+        "./skills/tauri-setup",
+        "./skills/tauri-config",
+        "./skills/tauri-build",
+        "./skills/tauri-app-develop",
+        "./skills/tauri-app-creator",
+        "./skills/tauri-app-frontend-selection",
+        "./skills/tauri-app-planning",
+        "./skills/tauri-framework-upgrade",
+        "./skills/tauri-concept"
+      ]
+    },
+    {
+      "name": "tauri-system",
+      "description": "System integration and native capability skills (15 skills)",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/tauri-app-cli",
+        "./skills/tauri-app-clipboard",
+        "./skills/tauri-app-file-system",
+        "./skills/tauri-app-process",
+        "./skills/tauri-app-shell",
+        "./skills/tauri-app-os-info",
+        "./skills/tauri-app-dialog",
+        "./skills/tauri-app-notification",
+        "./skills/tauri-app-global-shortcut",
+        "./skills/tauri-app-autostart",
+        "./skills/tauri-app-deep-linking",
+        "./skills/tauri-app-single-instance",
+        "./skills/tauri-app-system-tray",
+        "./skills/tauri-app-window-menu",
+        "./skills/tauri-app-logging"
+      ]
+    },
+    {
+      "name": "tauri-network",
+      "description": "Network communication and IPC skills (6 skills)",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/tauri-app-http-client",
+        "./skills/tauri-app-websocket",
+        "./skills/tauri-app-upload",
+        "./skills/tauri-app-localhost",
+        "./skills/tauri-ipc",
+        "./skills/tauri-app-sidecar-nodejs"
+      ]
+    },
+    {
+      "name": "tauri-mobile",
+      "description": "Mobile development and hardware access skills (6 skills)",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/tauri-mobile",
+        "./skills/tauri-app-nfc",
+        "./skills/tauri-app-biometric",
+        "./skills/tauri-app-barcode-scanner",
+        "./skills/tauri-app-haptics",
+        "./skills/tauri-app-geolocation"
+      ]
+    },
+    {
+      "name": "tauri-data",
+      "description": "Data persistence and storage skills (4 skills)",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/tauri-app-store",
+        "./skills/tauri-app-sql",
+        "./skills/tauri-app-persisted-scope",
+        "./skills/tauri-app-stronghold"
+      ]
+    },
+    {
+      "name": "tauri-ui",
+      "description": "UI interaction and window management skills (5 skills)",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/tauri-window",
+        "./skills/tauri-app-opener",
+        "./skills/tauri-app-splashscreen",
+        "./skills/tauri-app-wasm",
+        "./skills/tauri-app-window-state",
+        "./skills/tauri-app-positioner"
+      ]
+    },
+    {
+      "name": "tauri-security",
+      "description": "Security hardening and permission management skills (4 skills)",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/tauri-security",
+        "./skills/tauri-framework-security",
+        "./skills/tauri-app-plugin-permissions",
+        "./skills/tauri-app-wasm"
+      ]
+    }
+  ]
+}
