@@ -107,9 +107,20 @@ Run the following command in Claude Code to register this repository as a plugin
 ```bash
 /plugin marketplace add https://github.com/partme-ai/tauri-skills.git
 ```
+
+![add_marketplace.png](./media/add_marketplace.png)
+
+Register Success！
+
+![add_marketplace_success.png](media/add_marketplace_success.png)
+
 Or use the shorthand (if published to the official source):
 ```bash
 /plugin marketplace add partme-ai/tauri-skills
+```
+Remove the plugin marketplace：
+```
+/plugin marketplace remove tauri-skills
 ```
 
 #### 2. Install Plugins

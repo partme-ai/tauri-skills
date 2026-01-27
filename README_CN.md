@@ -107,9 +107,24 @@ tauri-skills/
 ```bash
 /plugin marketplace add https://github.com/partme-ai/tauri-skills.git
 ```
+
+
+![add_marketplace.png](./media/add_marketplace.png)
+
+安装成功！
+
+![add_marketplace_success.png](media/add_marketplace_success.png)
+
 或者使用简写（如果已发布到官方源）：
-```bash
+
+```
 /plugin marketplace add partme-ai/tauri-skills
+```
+
+删除插件：
+
+```
+/plugin marketplace remove tauri-skills
 ```
 
 #### 2. 安装插件
