@@ -4,6 +4,7 @@ description: Guidance for Tauri v2 window-state plugin to persist window size an
 license: Complete terms in LICENSE.txt
 ---
 
+
 ## When to use this skill
 
 **ALWAYS use this skill when the user mentions:**

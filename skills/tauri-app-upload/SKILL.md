@@ -4,6 +4,7 @@ description: Guidance for Tauri v2 upload plugin with file transfer, progress re
 license: Complete terms in LICENSE.txt
 ---
 
+
 ## When to use this skill
 
 **ALWAYS use this skill when the user mentions:**

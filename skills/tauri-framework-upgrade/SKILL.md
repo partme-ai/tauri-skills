@@ -4,6 +4,7 @@ description: Guidance for upgrading to stable Tauri v2 from v1 or v2 beta with m
 license: Complete terms in LICENSE.txt
 ---
 
+
 ## When to use this skill
 
 **ALWAYS use this skill when the user mentions:**

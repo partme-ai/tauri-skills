@@ -4,6 +4,7 @@ description: Guidance for Tauri v2 autostart setup with platform differences and
 license: Complete terms in LICENSE.txt
 ---
 
+
 ## When to use this skill
 
 **ALWAYS use this skill when the user mentions:**

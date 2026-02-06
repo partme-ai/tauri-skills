@@ -4,6 +4,7 @@ description: Guidance for Tauri v2 os-info plugin with safe system diagnostics a
 license: Complete terms in LICENSE.txt
 ---
 
+
 ## When to use this skill
 
 **ALWAYS use this skill when the user mentions:**

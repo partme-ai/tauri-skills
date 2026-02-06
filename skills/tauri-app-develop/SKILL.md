@@ -4,6 +4,7 @@ description: Guidance for Tauri v2 daily development workflow, debugging, resour
 license: Complete terms in LICENSE.txt
 ---
 
+
 ## When to use this skill
 
 **ALWAYS use this skill when the user mentions:**

@@ -4,6 +4,7 @@ description: Guidance for creating Tauri v2 projects using official create-tauri
 license: Complete terms in LICENSE.txt
 ---
 
+
 ## When to use this skill
 
 **ALWAYS use this skill when the user mentions:**

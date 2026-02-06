@@ -1,8 +1,9 @@
 ---
 name: tauri-setup
-description: Guidance for Tauri v2 prerequisites and environment setup across macOS, Windows, Linux, and mobile (Android/iOS) targets.
+description: Guidance for Tauri v2 prerequisites and environment setup across macOS, Windows, Linux, and mobile Android iOS targets.
 license: Complete terms in LICENSE.txt
 ---
+
 
 ## When to use this skill
 

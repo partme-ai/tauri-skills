@@ -4,6 +4,7 @@ description: Comprehensive project planning, requirements analysis, and architec
 license: Complete terms in LICENSE.txt
 ---
 
+
 # Tauri App Planning
 
 This skill acts as a Senior Architect for Tauri projects. It guides the user from vague requirements to a concrete implementation plan, integrating technical orchestration patterns.

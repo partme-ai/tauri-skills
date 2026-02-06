@@ -4,6 +4,7 @@ description: Guidance for running Rust-compiled WASM in the Tauri v2 frontend.
 license: Complete terms in LICENSE.txt
 ---
 
+
 ## When to use this skill
 
 **ALWAYS use this skill when the user mentions:**

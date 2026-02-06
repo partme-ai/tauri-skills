@@ -4,6 +4,7 @@ description: Guidance for Tauri v2 window creation, configuration, lifecycle man
 license: Complete terms in LICENSE.txt
 ---
 
+
 ## When to use this skill
 
 **ALWAYS use this skill when the user mentions:**

@@ -4,6 +4,7 @@ description: Guidance for Tauri v2 process plugin with controlled process inform
 license: Complete terms in LICENSE.txt
 ---
 
+
 ## When to use this skill
 
 **ALWAYS use this skill when the user mentions:**

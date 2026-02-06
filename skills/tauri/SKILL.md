@@ -4,6 +4,7 @@ description: Comprehensive index for Tauri framework development, including Rust
 license: Complete terms in LICENSE.txt
 ---
 
+
 ## When to use this skill
 
 Use this skill as the **primary entry point** for any Tauri-related request. It serves as a "Total Index" (like `nvm`) that routes you to specific sub-skills.

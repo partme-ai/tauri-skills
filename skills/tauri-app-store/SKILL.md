@@ -4,6 +4,7 @@ description: Guidance for Tauri v2 store plugin with key-value persistence and l
 license: Complete terms in LICENSE.txt
 ---
 
+
 ## When to use this skill
 
 **ALWAYS use this skill when the user mentions:**
