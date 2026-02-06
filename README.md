@@ -17,6 +17,8 @@
 
 With these skills, full-stack developers can leverage AI assistants like Claude to quickly master Tauri development best practices and efficiently build cross-platform desktop and mobile applications.
 
+This repository participates in the **development stage** (desktop/cross-platform) of the「requirements → deployment」pipeline. For the full pipeline stage mapping and skills ecosystem, see [full-stack-skills/docs/pipeline-stage-to-skills.md](https://github.com/partme-ai/full-stack-skills/blob/main/docs/pipeline-stage-to-skills.md) and [full-stack-skills/docs/skills-ecosystem.md](https://github.com/partme-ai/full-stack-skills/blob/main/docs/skills-ecosystem.md).
+
 > **⚠️ Note:** This project is currently in Alpha stage and has not been rigorously tested. It is still under self-testing. Feedback and suggestions are welcome.
 
 ## What are Skills?

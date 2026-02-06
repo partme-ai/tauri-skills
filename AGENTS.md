@@ -4,7 +4,7 @@
 
 ## 仓库概览
 
-面向 Claude.ai 与 Claude Code 的一组技能集合，用于处理与 Vercel 部署相关的工作。技能是经过打包的说明与脚本，用于扩展 Claude 的能力。
+面向 Tauri 跨平台桌面/移动应用开发的 Agent Skills 集合。本仓库参与「需求→部署」全链路的**开发阶段**（桌面/跨平台）。全链路阶段映射与技能生态见 [full-stack-skills/docs/pipeline-stage-to-skills.md](https://github.com/partme-ai/full-stack-skills/blob/main/docs/pipeline-stage-to-skills.md) 与 [full-stack-skills/docs/skills-ecosystem.md](https://github.com/partme-ai/full-stack-skills/blob/main/docs/skills-ecosystem.md)。
 
 ## 创建新技能
 
